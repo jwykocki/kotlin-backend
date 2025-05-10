@@ -1,6 +1,6 @@
-package com.jw.kotlinbackend.controller
+package com.jw.backend.controller
 
-import com.jw.kotlinbackend.model.Product
+import com.jw.backend.model.Product
 import org.springframework.web.bind.annotation.*
 
 @RestController

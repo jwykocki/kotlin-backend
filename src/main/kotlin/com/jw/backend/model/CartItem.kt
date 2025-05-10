@@ -1,5 +1,4 @@
-package com.jw.kotlinbackend.model
-
+package com.jw.backend.model
 
 data class CartItem(
     val productId: Long,

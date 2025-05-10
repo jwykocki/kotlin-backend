@@ -1,4 +1,4 @@
-package com.jw.kotlinbackend
+package com.jw.backend
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
