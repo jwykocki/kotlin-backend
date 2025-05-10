@@ -1,7 +1,7 @@
-package com.jw.kotlinbackend.controller
+package com.jw.backend.controller
 
-import com.jw.kotlinbackend.model.PaymentRequest
-import com.jw.kotlinbackend.model.PaymentResponse
+import com.jw.backend.model.PaymentRequest
+import com.jw.backend.model.PaymentResponse
 import org.springframework.http.ResponseEntity
 import org.springframework.web.bind.annotation.*
 

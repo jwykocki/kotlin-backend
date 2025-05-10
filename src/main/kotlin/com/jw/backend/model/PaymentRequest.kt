@@ -1,4 +1,4 @@
-package com.jw.kotlinbackend.model
+package com.jw.backend.model
 
 import jakarta.validation.constraints.NotBlank
 import jakarta.validation.constraints.Positive

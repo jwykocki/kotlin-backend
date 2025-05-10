@@ -1,9 +1,9 @@
-package com.jw.kotlinbackend.controller
+package com.jw.backend.controller
 
-import com.jw.kotlinbackend.model.AddToCartRequest
-import com.jw.kotlinbackend.model.Cart
-import com.jw.kotlinbackend.model.CartItem
-import com.jw.kotlinbackend.model.Product
+import com.jw.backend.model.AddToCartRequest
+import com.jw.backend.model.Cart
+import com.jw.backend.model.CartItem
+import com.jw.backend.model.Product
 import org.springframework.http.ResponseEntity
 import org.springframework.web.bind.annotation.*
 

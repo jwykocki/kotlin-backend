@@ -1,4 +1,4 @@
-package com.jw.kotlinbackend.model
+package com.jw.backend.model
 
 data class Product(
     val id: Long,
